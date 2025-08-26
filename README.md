@@ -38,8 +38,8 @@ under varying solar irradiance and temperature conditions.
 
 Example I-V and P-V characteristics with MPPT point highlighted:
 
-![IV Curve](results/iv_curve.png)\
-![PV Curve](results/pv_curve.png)
+![MPPT Curve](pv-mppt-simulink/MPPT_Tracking.jpg)\
+![PV Curve](pv-mppt-simulink/PV_IV_Plot.png)
 
 🚀 How to Run
 
