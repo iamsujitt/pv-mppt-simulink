@@ -10,7 +10,7 @@ under varying solar irradiance and temperature conditions.
 
 ⚡ Key Features
 
--   PV array model under variable irradiance (1000 W/m²) and temperature
+-   PV array model under variable irradiance (800 W/m²) and temperature
     (25 °C).
 -   **MPPT algorithm** to track optimal voltage reference.
 -   **PI controller** for duty-cycle regulation of the boost converter.
